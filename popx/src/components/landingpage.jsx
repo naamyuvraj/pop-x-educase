@@ -6,7 +6,7 @@ export default function LandingPage() {
 
   return (
     <div className="flex justify-center p-5 pb-3">
-      <div className="w-[25%] rounded shadow-lg overflow-hidden border border-[#F7F8F9] bg-white ">
+      <div className="w-[25%] rounded shadow overflow-hidden border border-[#F7F8F9] bg-white ">
         <div className="h-[570px] bg-gray-50 p-6"></div>
 
         <div className="p-6 bg-gray-50">

@@ -16,7 +16,7 @@ export default function CreateAccount() {
   };
   return (
     <div className="flex flex-col items-center justify-center mt-5 h-[580px] mt-[150px] border border-[#F7F8F9]"> 
-      <div className="w-[25%] p-6 rounded shadow-lg bg-gray-50 ">
+      <div className="w-[25%] p-6 rounded shadow bg-gray-50 ">
         <h2 className="text-3xl font-semibold ">Create your </h2>
         <h2 className="text-3xl font-semibold mb-6">PopX account</h2>
         <form className="space-y-5">

@@ -5,7 +5,7 @@ export default function LoginPage() {
     const navigate = useNavigate();
   return (
     <div className="min-h-screen flex items-center justify-center bg-white">
-      <div className="w-[25%] max-w-md p-8 border border-[#F7F8F9] rounded-md bg-gray-50 h-[800px] ">
+      <div className="w-[25%] max-w-md p-8 border border-[#F7F8F9] rounded-md bg-gray-50 h-[800px] shadow">
         <div className="pr-">
           <h2 className="text-2xl font-semibold text-gray-900 mb-">
             Signin to your
